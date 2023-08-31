@@ -2,7 +2,7 @@ package aulasgen;
 
 import java.util.Scanner;
 
-public class AulasGen {
+public class ExercicioUm {
     public static void main(String[] args) {
         Scanner leia = new Scanner(System.in);
         int a ,b ,c;
@@ -22,7 +22,7 @@ public class AulasGen {
             System.out.println("A Soma de A + B é Menor do que C");}
         else {
             System.out.println("A Soma de A + B é Igual a C");
-            }
         }
     }
+}
 
